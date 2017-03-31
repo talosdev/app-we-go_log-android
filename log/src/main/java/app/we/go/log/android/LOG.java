@@ -1,4 +1,4 @@
-package app.we.go.log;
+package app.we.go.log.android;
 
 import android.util.Log;
 
